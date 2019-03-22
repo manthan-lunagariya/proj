@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6f20ff66abdfe9beee0d39a8e9181e21b03e151c
 #include "cache.h"
 
 int advice_push_nonfastforward = 1;
