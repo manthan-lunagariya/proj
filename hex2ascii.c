@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+#include <time.h>
 void Readline(char*buf)
 {
 int count=0,flag = 0,cnt=0,i;
